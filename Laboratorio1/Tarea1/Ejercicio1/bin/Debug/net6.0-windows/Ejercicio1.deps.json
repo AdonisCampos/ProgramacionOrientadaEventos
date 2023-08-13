@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio1/1.0.0": {
+        "dependencies": {
+          "CircleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio1.dll": {}
+        }
+      },
+      "CircleLibrary/1.0.0": {
+        "runtime": {
+          "CircleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CircleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
