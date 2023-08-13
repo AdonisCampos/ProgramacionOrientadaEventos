@@ -1,0 +1,19 @@
+Laboratorio #1 Tarea #1 Trabajo en Equipo.
+----------------------------------------------------
+Grupo #7
+----------------------------------------------------
+Daniel Alessandro Mata Rosa    carnet: U20200658
+David Omar Lemus Martinez      carnet: u20230462
+Bernando Adonis Campos Campos  carnet: U20210692
+----------------------------------------------------
+Ejercicios a Desarrollar:
+----------------------------------------------------
+1-Calcular el área y perímetro de un círculo usando POO. El usuario debe ingresar los valores para realizar el cálculo. (Debe crear una biblioteca de clases para este ejercicio)
+2-Crear un programa que permita determinar si el número ingresado por el usuario es un número primo
+3-Crear un programa que solamente permita al usuario ingresar números, la tecla BORRAR y la tecla ESPACIO
+4-Determinar si un número ingresado por el usuario es divisible entre 15.
+5-Crear un programa que permita darle la reversa a una palabra y ponerla en mayúsculas. Ejemplo: hola ----> ALOH
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Link del repositorio en GitHub:
+----------------------------------------------------
+https://github.com/AdonisCampos/ProgramacionOrientadaEventos.git
